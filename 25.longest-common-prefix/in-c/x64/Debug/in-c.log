@@ -1,0 +1,4 @@
+﻿  main.c
+D:\GitHub\dsa\25.longest-common-prefix\in-c\main.c(26,24): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\GitHub\dsa\25.longest-common-prefix\in-c\main.c(12,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  in-c.vcxproj -> D:\GitHub\dsa\25.longest-common-prefix\in-c\x64\Debug\in-c.exe
